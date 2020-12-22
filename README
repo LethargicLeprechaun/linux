@@ -18,3 +18,9 @@ requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
 
 I've added a few more kernel versions with the PREEMPT_RT patch applied.
+Branches:
+rpi-5.0.y-rt
+rpi-5.2.y-rt
+rpi-5.4.y-rt
+rpi-5.6.y-rt
+rpi-5.10.y-rt
